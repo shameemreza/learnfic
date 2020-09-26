@@ -1,5 +1,6 @@
 # LEARNFIC :books:
-Flutter Online Learning Mobile App
+
+Flutter Online Course Mobile App
 
 Online learning is both a convenience and a challenge. It gives you a great deal of flexibility. Get your e-learning app developed with a sense of innovation in it. If you are planning to build an online course mobile app, then LEarnfic will be an awesome UI solution for your next Flutuer base Online course mobile app.
 
